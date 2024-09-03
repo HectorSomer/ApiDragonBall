@@ -1,0 +1,31 @@
+.colorUp{
+    background-color: white;
+    margin-bottom:0vh;
+}
+.colorBelow{
+    background-color: gray;
+    gap: 0vh;
+    padding: 0;
+}
+.pName{
+    font-size: 5vh;
+    margin: 0;
+    padding: 0;
+}
+.pYellow{
+    margin: 0;
+    font-size: 3vh;
+    color: yellow;
+    padding: 0;
+}
+.pNormal{
+    font-size: 3vh;
+    margin: 0;
+    padding: 0;
+}
+.cardTotal{
+    border-radius: 1vh;
+    border-color: red 1px;
+    overflow: hidden;
+    width: 40vh;
+}
